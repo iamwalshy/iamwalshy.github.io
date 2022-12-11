@@ -1,0 +1,3 @@
+baseURL = 'http://iamwalshy.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
